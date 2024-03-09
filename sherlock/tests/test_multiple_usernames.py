@@ -14,7 +14,7 @@ checksymbols = ["_", "-", "."]
         should return positive.
       
         Keyword Arguments:
-        self                   -- This object.
+        mrchase3344                  -- This object.
 
         Return Value:
         Nothing.
